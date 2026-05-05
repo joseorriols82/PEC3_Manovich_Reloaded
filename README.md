@@ -1,14 +1,11 @@
-# PEC3: Visionando el futuro con las gafas de Manovich 
+# PEC3_Manovich_Reloaded
 
 ### Recurso de aprendizaje de Cultura Digital 
 
 
 Autor: Jose Orriols Rosado
-
-
+Asignatura: Cultura Digital / Multimedia
 Fecha: 15-05-2026
-
-![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
 
 
 
