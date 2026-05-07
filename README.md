@@ -27,8 +27,10 @@ Se distingue de la **multimedia** porque en ésta simplemente coexisten varios m
 Se distingue también de la **remediación**  porque ésta interpreta o representa a otro medio simulando o imitándolo, podemos decir que se adaptan medios. En cambio la hibridación combina medios creando otro nuevo.
 
 Respecto a mis casos escogidos la elección responde a la intención de analizar dos formas muy diferenciadas pero complementarias de hibridación mediática en el contexto del software contemporáneo como plantea **Lev Manovich.**
+
 **Caso 1: Spider-Verse**
 **Caso 2: Instagram**
+
 Aplicando lo explicado hasta ahora en el caso 1 existe una hibridación que combina cine+comic y en el caso 2 es otro claro ejemplo de hibridación de varios medios integrados en la plataforma social.
 
 
