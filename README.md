@@ -34,6 +34,8 @@ Aplicando lo explicado hasta ahora en el caso 1 existe una hibridación que comb
 
 ## Reinterpretando Spiderman: Into the Spider-Verse: Caso 1
 
+
+
 En este primer caso ya no se trata de una mezcla de medios (cómic+animación) sino que se construye un nuevo lenguaje híbrido específico de la imagen en movimiento digital.
 La película no adapta simplemente recursos del cómic sino que los reconfigura dentro del tiempo y el movimiento traduciendo un lenguaje estático del cómic a otro dinámico del cine.
 
@@ -50,6 +52,8 @@ A través del uso del software la película reconfigura elementos típicos del c
 
 
 ## Reinterpretando Instagram: Caso 2
+
+
 
 En el caso de Instagram no hay solo hibridación sino que también existe remediación unido a una evolución hacia nuevas formas híbridas.
 Instagram remedia la fotografía analógica convirtiéndola en imagen digital editable, el álbum fotográfico transformándolo en feed, el vídeo amateur en reels o stories, etc...
