@@ -83,11 +83,25 @@ Pero lo podemos extender aún más realizando una **yuxtaposición** de nuevos m
 Con Instagram ocurre un proceso mixto donde el origen se vería como remediación, la yuxtaposición añadiría nuevas funciones y la hibridación las integraría en su totalidad.
 Instagram es una caso evolutivo donde coexisten remediación, yuxtaposición e hibridación.
 
+### Declaración de uso de IA
+
+Para la elaboración de este repositorio y la creación del ensayo he utilizado ChatGPT(OpenAI) como apoyo en la estructura y formato de MarkDown y Github, contrastar información, buscar fuentes fiables además de casos de ejemplo.
 
 ### Valoración personal y Referencias/Bibliografía
 
-* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
+Después de definir ambos casos se observa que la hibridación de medios no se manifiesta de una única forma sino que puede adoptar distintas formas según el contexto en el que aparece.
+Pero en ambos casos el software ocupa un papel central ya que no solo actúa como herramienta técnica sino como un espacio donde diferentes lenguajes o formatos se reorganizan.
 
+En el caso de Spider-Man la película no solo se limita a trasladar el cómic al cine sino que transforma recursos propios del cómic como viñetas u onomatopeyas en elementos integrados en la animación. El espectador experimenta una nueva forma visual.
+Por otro lado Instagram incorpora nuevas capas como reels, filtros de realidad aumentada, stickers o algoritmos.
+
+Ambos ejemplos confirman la idea de Lev Manovich de que el software ha transformado muy profundamente los medios actuales. No es solo una simple mezcla de medios sino una transformación dentro de sus límites y posibilidades.
+
++ Manovich, Lev. (2001). **El lenguaje de los nuevos medios**.
++ Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
++ Gea, M. (2022). _Herramientas y metodología crowdsourcing para la participación y creación colectiva de conocimiento abierto_. GitHub. https://github.com/mgea/CCpapers
++ Wikipedia. https://es.wikipedia.org/wiki/Spider-Man:_un_nuevo_universo 
++ OpenAI. (2026). *ChatGPT* [Thinking 5.3]. https://chat.openai.com/
 
 ----
 
