@@ -34,6 +34,12 @@ Aplicando lo explicado hasta ahora en el caso 1 existe una hibridación que comb
 
 ## Reinterpretando Spiderman: Into the Spider-Verse: Caso 1
 
+<p align="center">
+  <img src="spider-man-into-the-spider-verse-4k-0e3cgsff6fzyb359.jpg" width="1000">
+</p>
+
+
+> *Imagen 1. Wallpaper de Spiderman: Un nuevo universo de licencia Free. Autor: casey77 .*
 
 
 En este primer caso ya no se trata de una mezcla de medios (cómic+animación) sino que se construye un nuevo lenguaje híbrido específico de la imagen en movimiento digital.
