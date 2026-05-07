@@ -32,15 +32,36 @@ Caso 2: Instagram
 Aplicando lo explicado hasta ahora en el caso 1 existe una hibridación que combina cine+comic y en el caso 2 es otro claro ejemplo de hibridación de varios medios integrados en la plataforma social.
 
 
-## Re-descubriendo la hibridacion: Caso 1
+## Reinterpretando Spiderman: Into the Spider-Verse: Caso 1
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+En este primer caso ya no se trata de una mezcla de medios (cómic+animación) sino que se construye un nuevo lenguaje híbrido específico de la imagen en movimiento digital.
+La película no adapta simplemente recursos del cómic sino que los reconfigura dentro del tiempo y el movimiento traduciendo un lenguaje estático del cómic a otro dinámico del cine.
+
+El nuevo lenguaje lo construyen entre otros varios elementos concretos:
+- Animación o movimiento a diferentes FPS de los personajes
+- Onomatopeyas integradas en la acción
+- Composición híbrida dividiendo la pantalla como si fueran viñetas
+
+Y es aquí donde entra el papel del software permitiendo convertir todo en datos manipulables combinando técnicas que serían incompatibles en medios tradicionales.
+La imagen en movimiento responde a las leyes del cine pero también a las leyes del software.
+
+En conclusión para el caso concreto de Spiderman: Into the Spider-Verse la hibridación no se limita a combinar medios ya existentes sino que se construye un nuevo lenguaje visual de la imagen en movimiento.
+A través del uso del software la película reconfigura elementos típicos del cómic que eran estáticos.
 
 
+## Reinterpretando Instagram: Caso 2
 
-## Re-descubriendo la hibridacion: Caso 2
+En el caso de Instagram no hay solo hibridación sino que también existe remediación unido a una evolución hacia nuevas formas híbridas.
+Instagram remedia la fotografía analógica convirtiéndola en imagen digital editable, el álbum fotográfico transformándolo en feed, el vídeo amateur en reels o stories, etc...
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Lev Manovich dice que ya no solo remedia sino que evoluciona hacia una hibridación integrando imagen más vídeo más música más interacción dentro de una misma interfaz generando al usuario una experiencia unificada.
+
+Pero lo podemos extender aún más realizando una yuxtaposición de nuevos medios añadiendo por ejemplo:
+- Reels que introducen edición de vídeo integrada, música sincronizada y lógica de algoritmos. No solo remedian sino que añaden nuevos medios dentro del sistema.
+- AR/VR como filtros de realidad aumentada que son capaces de modificar el rostro en tiempo real integrando lo digital en lo físico. Se añaden nuevas capas de desarrollo hacia VR que antes no existían en fotografía o vídeo tradicional.
+
+Con Instagram ocurre un proceso mixto donde el origen se vería como remediación, la yuxtaposición añadiría nuevas funciones y la hibridación las integraría en su totalidad.
+Instagram es una caso evolutivo donde coexisten remediación, yuxtaposición e hibridación.
 
 
 ### Valoración personal y Referencias/Bibliografía
