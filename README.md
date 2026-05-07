@@ -12,7 +12,6 @@ Grado: Multimedia
 Fecha: 15-05-2026
 
 
-
 ## Planteamiento
 
 La hibridación de medios es un concepto clave en la teoría de la cultura digital en autores como Lev Manovich. 
