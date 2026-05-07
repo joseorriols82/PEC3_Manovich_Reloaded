@@ -39,7 +39,7 @@ Aplicando lo explicado hasta ahora en el caso 1 existe una hibridación que comb
 </p>
 
 
-> *Imagen 1. Wallpaper de Spiderman: Un nuevo universo de licencia Free. Autor: casey77 .*
+> *Imagen 1. Wallpaper de Spiderman: Un nuevo universo de licencia Free. Autor: casey77. https://es.wallpapers.com/fondos-de-pantalla/fondode-pantalla-en-alta-definicion-de-spider-man-un-nuevo-universo-0e3cgsff6fzyb359.html  .*
 
 
 En este primer caso ya no se trata de una mezcla de medios (cómic+animación) sino que se construye un nuevo lenguaje híbrido específico de la imagen en movimiento digital.
