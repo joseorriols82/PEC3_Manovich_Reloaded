@@ -1,11 +1,13 @@
 # PEC3_Manovich_Reloaded
 
-### Recurso de aprendizaje de Cultura Digital 
+### PEC3 de Cultura Digital de la UOC
 
 
 Autor: Jose Orriols Rosado
 
-Asignatura: Cultura Digital / Multimedia
+Asignatura: Cultura Digital 
+
+Grado: Multimedia
 
 Fecha: 15-05-2026
 
