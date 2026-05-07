@@ -29,7 +29,7 @@ Se distingue también de la **remediación**  porque ésta interpreta o represen
 Respecto a mis casos escogidos la elección responde a la intención de analizar dos formas muy diferenciadas pero complementarias de hibridación mediática en el contexto del software contemporáneo como plantea **Lev Manovich.**
 
 
-**Caso 1: Spider-Verse**
+**Caso 1: Spider-Man: un nuevo universo**
 
 **Caso 2: Instagram**
 
@@ -37,14 +37,14 @@ Respecto a mis casos escogidos la elección responde a la intención de analizar
 Aplicando lo explicado hasta ahora en el caso 1 existe una hibridación que combina cine+comic y en el caso 2 es otro claro ejemplo de hibridación de varios medios integrados en la plataforma social.
 
 
-## Reinterpretando Spiderman: Into the Spider-Verse: Caso 1
+## Reinterpretando Spider-Man: un nuevo universo: Caso 1
 
 <p align="center">
   <img src="spider-man-into-the-spider-verse-4k-0e3cgsff6fzyb359.jpg" width="1000">
 </p>
 
 
-> *Imagen 1. Wallpaper de Spiderman: Un nuevo universo. Tipo de licencia Free. Autor: casey77. URL: https://es.wallpapers.com/fondos-de-pantalla/fondode-pantalla-en-alta-definicion-de-spider-man-un-nuevo-universo-0e3cgsff6fzyb359.html  .*
+> *Imagen 1. Wallpaper de Spider-Man: Un nuevo universo. Tipo de licencia Free. Autor: casey77. URL: https://es.wallpapers.com/fondos-de-pantalla/fondode-pantalla-en-alta-definicion-de-spider-man-un-nuevo-universo-0e3cgsff6fzyb359.html  .*
 
 
 En este primer caso ya no se trata de una mezcla de medios (cómic+animación) sino que se construye un **nuevo lenguaje híbrido** específico de la imagen en movimiento digital.
@@ -58,7 +58,7 @@ El nuevo lenguaje lo construyen entre otros varios elementos concretos:
 Y es aquí donde entra el papel del software permitiendo convertir todo en datos manipulables combinando técnicas que serían incompatibles en medios tradicionales.
 La imagen en movimiento responde a las leyes del cine pero también a las leyes del software.
 
-En conclusión para el caso concreto de **Spiderman: Into the Spider-Verse** la hibridación no se limita a combinar medios ya existentes sino que se construye un nuevo lenguaje visual de la imagen en movimiento.
+En conclusión para el caso concreto de **Spider-Man: un nuevo universo** la hibridación no se limita a combinar medios ya existentes sino que se construye un nuevo lenguaje visual de la imagen en movimiento.
 A través del uso del software la película reconfigura elementos típicos del cómic que eran estáticos.
 
 
