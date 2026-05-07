@@ -39,7 +39,7 @@ Aplicando lo explicado hasta ahora en el caso 1 existe una hibridación que comb
 </p>
 
 
-> *Imagen 1. Wallpaper de Spiderman: Un nuevo universo. Tipo de licencia Free. Autor: casey77. https://es.wallpapers.com/fondos-de-pantalla/fondode-pantalla-en-alta-definicion-de-spider-man-un-nuevo-universo-0e3cgsff6fzyb359.html  .*
+> *Imagen 1. Wallpaper de Spiderman: Un nuevo universo. Tipo de licencia Free. Autor: casey77. URL: https://es.wallpapers.com/fondos-de-pantalla/fondode-pantalla-en-alta-definicion-de-spider-man-un-nuevo-universo-0e3cgsff6fzyb359.html  .*
 
 
 En este primer caso ya no se trata de una mezcla de medios (cómic+animación) sino que se construye un nuevo lenguaje híbrido específico de la imagen en movimiento digital.
@@ -59,7 +59,12 @@ A través del uso del software la película reconfigura elementos típicos del c
 
 ## Reinterpretando Instagram: Caso 2
 
+<p align="center">
+  <img src="old-and-new-instagram-logo-wmhdhqicl8y6nk32.jpg" width="1000">
+</p>
 
+
+> *Imagen 2. Wallpaper de Instagram. Tipo de licencia Free. Autor: marvin. URL: https://es.wallpapers.com/fondos-de-pantalla/logotipoantiguo-y-nuevo-de-instagram-wmhdhqicl8y6nk32.html   .*
 
 En el caso de Instagram no hay solo hibridación sino que también existe remediación unido a una evolución hacia nuevas formas híbridas.
 Instagram remedia la fotografía analógica convirtiéndola en imagen digital editable, el álbum fotográfico transformándolo en feed, el vídeo amateur en reels o stories, etc...
