@@ -26,7 +26,7 @@ Se puede reconocer cuando se genera algo que no existía antes como medio indepe
 Se distingue de la **multimedia** porque en ésta simplemente coexisten varios medios juntos siendo cada uno independiente, podemos decir que se suman medios separados. En cambio en la hibridación los medios se fusionan integrándose unos con otros completamente.
 Se distingue también de la **remediación**  porque ésta interpreta o representa a otro medio simulando o imitándolo, podemos decir que se adaptan medios. En cambio la hibridación combina medios creando otro nuevo.
 
-Respecto a mis casos escogidos la elección responde a la intención de analizar dos formas muy diferenciadas pero complementarias de hibridación mediática en el contexto del software contemporáneo como plantea **Lev Manovich.**
+Respecto a mis casos escogidos la elección responde a la intención de analizar dos formas muy diferenciadas pero complementarias de hibridación mediática en el contexto del software contemporáneo como plantea Lev Manovich.
 
 
 **Caso 1: Spider-Man: un nuevo universo**
