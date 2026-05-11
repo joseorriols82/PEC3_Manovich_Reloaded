@@ -24,7 +24,7 @@ La hibridación de medios se reconoce cuando existe una integración real donde 
 Se puede reconocer cuando se genera algo que no existía antes como medio independiente percibiendo el usuario un todo como una única experiencia y no como partes separadas.
 
 Lo distingo de la **multimedia** porque en ésta simplemente coexisten varios medios juntos siendo cada uno independiente, pudiendo decir que se suman medios separados. En cambio en la hibridación los medios se fusionan integrándose unos con otros completamente.
-A su vez lo distingo también de la **remediación**  porque ésta interpreta o representa a otro medio simulando o imitándolo, pudiendo decir que se adaptan medios. En cambio la hibridación combina medios creando otro nuevo.
+A su vez lo distingo también de la **remediación**  porque ésta interpreta o representa a otro medio simulando o imitándolo, pudiendo decir que se adaptan medios. En cambio la hibridación combina medios creando otros nuevos.
 
 Respecto a mis casos escogidos la elección responde a la intención de analizar dos formas muy diferenciadas pero complementarias de hibridación mediática en el contexto del software contemporáneo como plantea Lev Manovich.
 
@@ -34,7 +34,7 @@ Respecto a mis casos escogidos la elección responde a la intención de analizar
 **Caso 2: Instagram**
 
 
-Aplicando lo explicado hasta ahora en el caso 1 existe una hibridación que combina cine+comic y en el caso 2 es otro claro ejemplo de hibridación de varios medios integrados en la plataforma social.
+Aplicando lo explicado hasta ahora en el caso 1 existe una hibridación que combina cine+comic y en el caso 2 es otro claro ejemplo de hibridación de varios medios integrados en una plataforma social.
 
 
 ## Reinterpretando Spider-Man: un nuevo universo: Caso 1
@@ -81,7 +81,7 @@ Pero lo podemos extender aún más realizando una **yuxtaposición** de nuevos m
 - **AR/VR** como filtros de realidad aumentada que son capaces de modificar el rostro en tiempo real integrando lo digital en lo físico. Se añaden nuevas capas de desarrollo hacia VR que antes no existían en fotografía o vídeo tradicional.
 
 Para mi Instagram es el ejemplo perfecto donde ocurre un proceso mixto, el origen se vería como remediación, la yuxtaposición añadiría nuevas capas o funciones y la hibridación las integraría en su totalidad.
-Instagram es una caso evolutivo donde coexisten remediación, yuxtaposición e hibridación.
+Bajo mi punto de vista Instagram es una caso evolutivo donde coexisten remediación, yuxtaposición e hibridación.
 
 ### Declaración de uso de IA
 
